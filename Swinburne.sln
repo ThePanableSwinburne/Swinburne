@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesTask", "VariablesTask\VariablesTask.csproj", "{13FD954C-B5FA-44BC-9222-A97338E5C731}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionTask", "SelectionTask\SelectionTask.csproj", "{AD98CBE3-1BFF-4A58-8B78-1C25C827F11A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13FD954C-B5FA-44BC-9222-A97338E5C731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13FD954C-B5FA-44BC-9222-A97338E5C731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13FD954C-B5FA-44BC-9222-A97338E5C731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13FD954C-B5FA-44BC-9222-A97338E5C731}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD98CBE3-1BFF-4A58-8B78-1C25C827F11A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD98CBE3-1BFF-4A58-8B78-1C25C827F11A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD98CBE3-1BFF-4A58-8B78-1C25C827F11A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD98CBE3-1BFF-4A58-8B78-1C25C827F11A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

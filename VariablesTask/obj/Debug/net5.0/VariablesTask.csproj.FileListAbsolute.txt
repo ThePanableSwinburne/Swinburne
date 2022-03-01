@@ -1,0 +1,16 @@
+C:\Users\dhanr\RiderProjects\Swinburne\VariablesTask\bin\Debug\net5.0\VariablesTask.exe
+C:\Users\dhanr\RiderProjects\Swinburne\VariablesTask\bin\Debug\net5.0\VariablesTask.deps.json
+C:\Users\dhanr\RiderProjects\Swinburne\VariablesTask\bin\Debug\net5.0\VariablesTask.runtimeconfig.json
+C:\Users\dhanr\RiderProjects\Swinburne\VariablesTask\bin\Debug\net5.0\VariablesTask.runtimeconfig.dev.json
+C:\Users\dhanr\RiderProjects\Swinburne\VariablesTask\bin\Debug\net5.0\VariablesTask.dll
+C:\Users\dhanr\RiderProjects\Swinburne\VariablesTask\bin\Debug\net5.0\ref\VariablesTask.dll
+C:\Users\dhanr\RiderProjects\Swinburne\VariablesTask\bin\Debug\net5.0\VariablesTask.pdb
+C:\Users\dhanr\RiderProjects\Swinburne\VariablesTask\obj\Debug\net5.0\VariablesTask.csproj.AssemblyReference.cache
+C:\Users\dhanr\RiderProjects\Swinburne\VariablesTask\obj\Debug\net5.0\VariablesTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhanr\RiderProjects\Swinburne\VariablesTask\obj\Debug\net5.0\VariablesTask.AssemblyInfoInputs.cache
+C:\Users\dhanr\RiderProjects\Swinburne\VariablesTask\obj\Debug\net5.0\VariablesTask.AssemblyInfo.cs
+C:\Users\dhanr\RiderProjects\Swinburne\VariablesTask\obj\Debug\net5.0\VariablesTask.csproj.CoreCompileInputs.cache
+C:\Users\dhanr\RiderProjects\Swinburne\VariablesTask\obj\Debug\net5.0\VariablesTask.dll
+C:\Users\dhanr\RiderProjects\Swinburne\VariablesTask\obj\Debug\net5.0\ref\VariablesTask.dll
+C:\Users\dhanr\RiderProjects\Swinburne\VariablesTask\obj\Debug\net5.0\VariablesTask.pdb
+C:\Users\dhanr\RiderProjects\Swinburne\VariablesTask\obj\Debug\net5.0\VariablesTask.genruntimeconfig.cache

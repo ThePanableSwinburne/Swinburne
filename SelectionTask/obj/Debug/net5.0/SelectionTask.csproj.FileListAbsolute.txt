@@ -1,0 +1,16 @@
+C:\Users\dhanr\RiderProjects\Swinburne\SelectionTask\bin\Debug\net5.0\SelectionTask.exe
+C:\Users\dhanr\RiderProjects\Swinburne\SelectionTask\bin\Debug\net5.0\SelectionTask.deps.json
+C:\Users\dhanr\RiderProjects\Swinburne\SelectionTask\bin\Debug\net5.0\SelectionTask.runtimeconfig.json
+C:\Users\dhanr\RiderProjects\Swinburne\SelectionTask\bin\Debug\net5.0\SelectionTask.runtimeconfig.dev.json
+C:\Users\dhanr\RiderProjects\Swinburne\SelectionTask\bin\Debug\net5.0\SelectionTask.dll
+C:\Users\dhanr\RiderProjects\Swinburne\SelectionTask\bin\Debug\net5.0\ref\SelectionTask.dll
+C:\Users\dhanr\RiderProjects\Swinburne\SelectionTask\bin\Debug\net5.0\SelectionTask.pdb
+C:\Users\dhanr\RiderProjects\Swinburne\SelectionTask\obj\Debug\net5.0\SelectionTask.csproj.AssemblyReference.cache
+C:\Users\dhanr\RiderProjects\Swinburne\SelectionTask\obj\Debug\net5.0\SelectionTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhanr\RiderProjects\Swinburne\SelectionTask\obj\Debug\net5.0\SelectionTask.AssemblyInfoInputs.cache
+C:\Users\dhanr\RiderProjects\Swinburne\SelectionTask\obj\Debug\net5.0\SelectionTask.AssemblyInfo.cs
+C:\Users\dhanr\RiderProjects\Swinburne\SelectionTask\obj\Debug\net5.0\SelectionTask.csproj.CoreCompileInputs.cache
+C:\Users\dhanr\RiderProjects\Swinburne\SelectionTask\obj\Debug\net5.0\SelectionTask.dll
+C:\Users\dhanr\RiderProjects\Swinburne\SelectionTask\obj\Debug\net5.0\ref\SelectionTask.dll
+C:\Users\dhanr\RiderProjects\Swinburne\SelectionTask\obj\Debug\net5.0\SelectionTask.pdb
+C:\Users\dhanr\RiderProjects\Swinburne\SelectionTask\obj\Debug\net5.0\SelectionTask.genruntimeconfig.cache
